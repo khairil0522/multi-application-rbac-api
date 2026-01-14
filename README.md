@@ -76,7 +76,6 @@ markdown
 
 Copy `.env.example` to `.env`
 
-```bash
 cp .env.example .env
 .env.example is for documentation
 .env is for your local / server usage
@@ -84,8 +83,8 @@ cp .env.example .env
 🐳 Run with Docker
 docker-compose build
 docker-compose up -d
-API will be available at:
 
+API will be available at:
 Locahost
 http://localhost:8000
 Swagger:
