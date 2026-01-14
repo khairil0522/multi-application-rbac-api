@@ -3,6 +3,9 @@
 A reusable, production-ready **Multi-Application RBAC Core API** built with **FastAPI**, **PostgreSQL**, and **Redis**.  
 Designed to support **multiple applications**, **scoped permissions**, **audit logging**, and **high performance caching**.
 
+RECOMMENDED : Run with Docker (Reproducible Environment)
+Manual setup is for development only
+
 ---
 
 ## ✨ Key Features
